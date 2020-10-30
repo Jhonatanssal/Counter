@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Counter
 
 > This project was created in order to practice and learn basic frontend using JavaScript and DOM.
 
