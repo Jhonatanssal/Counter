@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.querySelector("#value"),t=document.querySelectorAll(".btn");let n=0;t.forEach((function(t){t.addEventListener("click",(function(t){var r;(r=t.currentTarget.classList).contains("decrease")?n--:r.contains("increase")?n++:n=0,c(),e.textContent=n}))}));const c=()=>{e.style.color=n>0?"green":n<0?"red":"inherit"}})();

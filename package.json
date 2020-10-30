@@ -4,8 +4,14 @@
   "description": "web app with a counter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "author": "Jhonatan S. <jhonatan6512s.a@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.3.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.1.0"
+  }
 }
