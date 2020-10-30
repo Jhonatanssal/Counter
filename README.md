@@ -6,7 +6,7 @@
 
 ![screenshot](./img/app_screenshot.png)
 
-It was built completely using only HTML and JavaScript changes the Background color every time the user clicks the button.
+It was built completely using only HTML and JavaScript, this app changes a counter each time a user clicks in the different buttons.
 
 ## Built With
 
@@ -16,14 +16,14 @@ It was built completely using only HTML and JavaScript changes the Background co
 
 ## Live Demo
 
-[Live Demo Link](https://jssarrazolaa.github.io/ColorFlipper/)
+[Live Demo Link](https://jssarrazolaa.github.io/Counter/)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example step:
 
-- Get a copy of the repo by copying this command `git clone https://github.com/jssarrazolaa/ColorFlipper.git`
+- Get a copy of the repo by copying this command `git clone https://github.com/jssarrazolaa/Counter.git`
 and running it into the terminal. 
 
 ### Prerequisites
@@ -46,7 +46,7 @@ and running it into the terminal.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jssarrazolaa/ColorFlipper/issues).
+Feel free to check the [issues page](https://github.com/jssarrazolaa/Counter/issues).
 
 ## Show your support
 
